@@ -23,3 +23,6 @@
 * Spring
 * MySql
 * Aws
+
+## 블로그
+* https://yooooonshine.tistory.com/

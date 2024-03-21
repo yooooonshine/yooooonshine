@@ -25,5 +25,8 @@
 * MySql
 * Aws
 
+### 기타
+* 병역:육군 병장 만기전역 (2020.03.31 ~ 2019.10.15)
+
 ## 블로그
 * https://yooooonshine.tistory.com/

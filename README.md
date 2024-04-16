@@ -20,8 +20,8 @@
 * JavaScript
 
 ### 백엔드
-* Django
-* Spring
+* Django(django drf, orm)
+* Spring(jpa, mvc, security)
 * MySql
 * Aws
 

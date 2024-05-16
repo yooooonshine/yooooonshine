@@ -9,13 +9,13 @@
 * 홍익대학교 중앙동아리 HICC 회장 및 학술부장(2024.03 - )
 * [내외국인을 위한 서울시 약국 찾기 프로젝트](https://github.com/Seoul-Pharmacy/seoul_Pharmacy_Backend) BE & TEAM LEADER(2024.04.08 - 2024.05.10)
 
-## 아래는 배포된 프로젝트 링크입니다.
+## 🔥아래는 배포된 프로젝트 링크입니다.
 * [홍익대학교 길찾기 프로젝트 HONGMAP](https://hongikmap2023.pythonanywhere.com/)
 * [HICC 홈페이지](https://www.hicc.co.kr/)
 * [내외국인을 위한 서울시 약국 찾기 Pharmaseoul](https://www.pharmaseoul.com)
 
 
-## Tech Stack
+## ✍️Tech Stack
 ### 프론트엔드
 * Html
 * Css

@@ -20,7 +20,6 @@
 * Html
 * Css
 * JavaScript
-* React
 
 ### 백엔드
 * Django(django drf, orm)

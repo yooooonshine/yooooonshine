@@ -32,3 +32,6 @@
 
 ## ✨블로그
 * https://yooooonshine.tistory.com/
+
+## 📺유튜브
+* https://www.youtube.com/channel/UC5_CG0j-KjzOfvzCM3h6m0w

@@ -57,3 +57,6 @@
 
 ## 📺유튜브
 * https://www.youtube.com/channel/UC5_CG0j-KjzOfvzCM3h6m0w
+
+## 백준
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hl3470)](https://solved.ac/hl3470/)

@@ -26,7 +26,7 @@
 * [수강신청 시간표 마법사 프로젝트](https://github.com/HICC-Presentation-Contest/O5) FE LEAD & BE(2023.07 - 2023.08)
 * [HICC 홈페이지 만들기 프로젝트](https://github.com/HICC-REBOOT/HICC-REBOOT-Backend) BE(2024.01 - 2024.02)
 * [HICC 동아리 박람회 친구 소개 프로젝트](https://github.com/yooooonshine/HongikClubFairProject) FE LEAD(2024.03.08 - 2024.03.16)
-* 홍익대학교 중앙 컴퓨터 동아리 HICC(HongIk Computer Club) 회장 및 학술부장(2024.03 - )
+* 홍익대학교 중앙 컴퓨터 동아리 HICC(HongIk Computer Club) 회장 및 학술부장(2024.03 - 2024.08)
 * [내외국인을 위한 서울시 약국 찾기 프로젝트](https://github.com/Seoul-Pharmacy/seoul_Pharmacy_Backend) BE & TEAM LEADER(2024.04.08 - 2024.05.10)
 * [홍익대학교 학생들을 위한 미팅 프로젝트 홍개팅](https://github.com/HongBlindDate/HongBlindDate-Backend) BE LEAD(2024.02 - )
 * [중간 지점 번화가를 찾아주는 중간지점 프로젝트](https://github.com/IT-Cotato/9th-Midpoint-BE) BE LEAD(2024.04 - )

@@ -37,7 +37,7 @@
 * [홍익대학교 길찾기 프로젝트 HONGMAP](https://hongikmap2023.pythonanywhere.com/)
 * [HICC 홈페이지](https://www.hicc.co.kr/)
 * [내외국인을 위한 서울시 약국 찾기 Pharmaseoul](https://www.pharmaseoul.com)
-
+* [중간 지점 찾기 SyncSpot](https://cotato-midpoint.site/)
 
 ## ✍️Tech Stack
 ### 프론트엔드

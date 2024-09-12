@@ -32,13 +32,14 @@
 * [홍익대학교 학생들을 위한 미팅 프로젝트 홍개팅](https://github.com/HongBlindDate/HongBlindDate-Backend) BE LEAD(2024.02 - )
 * [중간 지점 번화가를 찾아주는 중간지점 프로젝트](https://github.com/IT-Cotato/9th-Midpoint-BE) BE LEAD(2024.04 - )
 * 카카오테크 부트캠프 풀스택 1기(2024.07 - )
+* [AI 자동화 금융 프로젝트 ANT HELPER](https://github.com/KakaoTech-14/ant-helper-backend) BE (2024.08 - )
 
 ## 🔥아래는 배포된 프로젝트 링크입니다.
 * [홍익대학교 길찾기 프로젝트 HONGMAP](https://hongikmap2023.pythonanywhere.com/)
 * [HICC 홈페이지](https://www.hicc.co.kr/)
 * [내외국인을 위한 서울시 약국 찾기 Pharmaseoul](https://www.pharmaseoul.com)
 * [중간 지점 찾기 SyncSpot](https://cotato-midpoint.site/)
-
+* [AI 자동화 금융 프로젝트 ANT HELPER](https://www.ant-helper.com)
 ## ✍️Tech Stack
 ### 프론트엔드
 * Html

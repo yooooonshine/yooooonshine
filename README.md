@@ -29,7 +29,7 @@
 * 홍익대학교 중앙 컴퓨터 동아리 HICC(HongIk Computer Club) 회장 및 학술부장(2024.03 - 2024.08)
 * IT 연합 동아리 코테이토 9기 수료(2024.03 - 2024.08)
 * [내외국인을 위한 서울시 약국 찾기 프로젝트](https://github.com/Seoul-Pharmacy/seoul_Pharmacy_Backend) BE & TEAM LEADER(2024.04.08 - 2024.05.10)
-* [홍익대학교 학생들을 위한 미팅 프로젝트 홍개팅](https://github.com/HongBlindDate/HongBlindDate-Backend) BE LEAD(2024.02 - )
+* [홍익대학교 학생들을 위한 미팅 프로젝트 홍개팅](https://github.com/HongBlindDate/HongBlindDate-Backend) BE LEAD(2024.02 - 중단)
 * [중간 지점 번화가를 찾아주는 중간지점 프로젝트](https://github.com/IT-Cotato/9th-Midpoint-BE) BE LEAD(2024.04 - )
 * 카카오테크 부트캠프 풀스택 1기(2024.07 - )
 * [AI 자동화 금융 프로젝트 ANT HELPER](https://github.com/KakaoTech-14/ant-helper-backend) BE (2024.08 - )

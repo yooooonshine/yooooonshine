@@ -39,7 +39,6 @@
 * [HICC 홈페이지](https://www.hicc.co.kr/)
 * [내외국인을 위한 서울시 약국 찾기 Pharmaseoul](https://www.pharmaseoul.com)
 * [중간 지점 찾기 SyncSpot](https://cotato-midpoint.site/)
-* [AI 자동화 금융 프로젝트 ANT HELPER](https://www.ant-helper.com)
 ## ✍️Tech Stack
 ### 프론트엔드
 * Html

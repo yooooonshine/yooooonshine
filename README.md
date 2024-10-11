@@ -34,6 +34,7 @@
 * 카카오테크 부트캠프 풀스택 1기(2024.07 - )
 * [AI 자동화 금융 프로젝트 ANT HELPER](https://github.com/KakaoTech-14/ant-helper-backend) BE (2024.08 - )
 * [스프링 한국투자증권 REST 기반 Trading API 라이브러리](https://github.com/yooooonshine/Spring-KIS) BE (2024.09 - )
+* IT 연합 동아리 코테이토 10기 백엔드 장(2024.09 - 2025.02)
 
 ## 🔥아래는 배포된 프로젝트 링크입니다.
 * [홍익대학교 길찾기 프로젝트 HONGMAP](https://hongikmap2023.pythonanywhere.com/)

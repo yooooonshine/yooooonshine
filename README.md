@@ -32,9 +32,8 @@
 * [중간 지점 번화가를 찾아주는 중간지점 프로젝트](https://github.com/IT-Cotato/9th-Midpoint-BE) BE LEAD(2024.04 - 2024.08)
 * 카카오테크 부트캠프 풀스택 1기(2024.07 - 2024.12)
 * [AI 자동화 금융 프로젝트 ANT HELPER](https://github.com/KakaoTech-14/ant-helper-backend) BE (2024.08 - 2024.10)
-* [스프링 한국투자증권 REST 기반 Trading API 라이브러리](https://github.com/yooooonshine/Spring-KIS) BE (2024.09 - 중단)
 * IT 연합 동아리 코테이토 10기 백엔드 장(2024.09 - 2025.02)
-* [AI 기반 갈등 중재 프로젝트 AIMO](https://github.com/KTB16Team) BE & FE (2024.10 - )
+* [AI 기반 갈등 중재 프로젝트 AIMO](https://github.com/KTB16Team) BE & FE (2024.10 - 2024.12)
 
 ## 🔥아래는 배포된 프로젝트 링크입니다.
 * [홍익대학교 길찾기 프로젝트 HONGMAP](https://hongikmap2023.pythonanywhere.com/)

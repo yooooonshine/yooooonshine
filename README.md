@@ -48,8 +48,8 @@
 
 ### 백엔드
 * Django(django drf, orm)
-* Spring(jpa, mvc, security)
-* MySql
+* Spring(JPA, MVC, Security)
+* MySQL, Redis
 * Aws(EC2, RDS, S3, ROUTE53)
 
 ## 🎸기타

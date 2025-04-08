@@ -37,7 +37,7 @@
 
 ## 🔥아래는 배포된 프로젝트 링크입니다.
 * [홍익대학교 길찾기 프로젝트 HONGMAP](https://hongikmap2023.pythonanywhere.com/)
-* [HICC 홈페이지](https://www.hicc.co.kr/)
+* [HICC 홈페이지](https://hicc.co.kr/)
 * [중간 지점 찾기 SyncSpot](https://www.syncspot.kr/)
 ## ✍️Tech Stack
 ### 프론트엔드

@@ -43,9 +43,7 @@
 * [중간 지점 찾기 syncspot](https://www.syncspot.kr/)
 ## ✍️Tech Stack
 ### 프론트엔드
-* Html
-* Css
-* JavaScript
+* HTML, CSS, JavaScript
 * React
 
 ### 백엔드

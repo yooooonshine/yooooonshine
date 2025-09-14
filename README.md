@@ -23,7 +23,6 @@
 ## ✨이력
 * 홍익대학교 입학(2019.02.25)
 * [대학교 길찾기 프로젝트 HONGMAP](https://github.com/yooooonshine/2023-B1H4-HongikMap) FE(2023.01 - 2023.03)
-* [수강신청 시간표 마법사 프로젝트](https://github.com/HICC-Presentation-Contest/O5) FE LEAD & BE(2023.07 - 2023.08)
 * [HICC 홈페이지 만들기 프로젝트](https://github.com/HICC-REBOOT/HICC-REBOOT-Backend) BE(2024.01 - 2024.02)
 * [HICC 동아리 박람회 친구 소개 프로젝트](https://github.com/yooooonshine/HongikClubFairProject) FE LEAD(2024.03.08 - 2024.03.16)
 * 중앙 컴퓨터 동아리 HICC 회장 및 학술부장(2024.03 - 2024.08)

@@ -13,7 +13,7 @@
 * IT 연합 동아리 코테이토 10기 백엔드 장(2024.09 - 2025.02)
 * [AI 기반 갈등 중재 프로젝트 AIMO](https://github.com/KTB16Team) BE & FE (2024.10 - 2024.12)
 * [중간 지점 번화가를 찾아주는 중간지점 프로젝트 syncspot](https://github.com/IT-Cotato/9th-Midpoint-BE) BE LEAD(2024.04 - 2025.01)
-* [멀티모달 기반 이미지 생성 및 SNS 작품 공유 플랫폼 Modic](https://github.com/Modic-2025/modic_backend) BE LEAD(2025.04 - PRESENT)
+* [멀티모달 기반 이미지 생성 및 SNS 작품 공유 플랫폼 Modic](https://github.com/Modic-2025/modic_backend) BE LEAD(2025.04 - PRESENT) - 한이음 장려상 수상
 * IT 연합 동아리 코테이토 11기 회장(2025.03 - 2025.08)
 
 ## 🔥아래는 배포된 프로젝트 링크입니다.

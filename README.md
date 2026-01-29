@@ -16,10 +16,6 @@
 * [멀티모달 기반 이미지 생성 및 SNS 작품 공유 플랫폼 Modic](https://github.com/Modic-2025/modic_backend) BE LEAD(2025.04 - PRESENT) - 한이음 장려상 수상
 * IT 연합 동아리 코테이토 11기 회장(2025.03 - 2025.08)
 
-## 🔥아래는 배포된 프로젝트 링크입니다.
-* [길찾기 프로젝트 HONGMAP](https://hongikmap2023.pythonanywhere.com/)
-* [HICC 홈페이지](https://hicc.co.kr/)
-* [중간 지점 찾기 syncspot](https://www.syncspot.kr/)
 ## ✍️Tech Stack
 ### 프론트엔드
 * HTML, CSS, JavaScript

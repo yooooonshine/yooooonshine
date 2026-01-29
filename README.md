@@ -36,5 +36,8 @@
 ## 📺유튜브
 * https://www.youtube.com/channel/UC5_CG0j-KjzOfvzCM3h6m0w
 
+## 📗포트폴리오
+* https://mellow-licorice-caf.notion.site/2889e3adf6b48078a04df86294ba4d59?source=copy_link
+
 ## 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hl3470)](https://solved.ac/hl3470/)

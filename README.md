@@ -15,7 +15,7 @@
 * [중간 지점 번화가를 찾아주는 중간지점 프로젝트 syncspot](https://github.com/IT-Cotato/9th-Midpoint-BE) BE LEAD(2024.04 - 2025.01)
 * IT 연합 동아리 코테이토 11기 회장(2025.03 - 2025.08)
 * [멀티모달 기반 이미지 생성 및 SNS 작품 공유 플랫폼 Modic](https://github.com/Modic-2025/modic_backend) BE LEAD(2025.04 - 2025.12) - 한이음 장려상 수상, 졸업프로젝트 수상작
-* 금융결제원 (2025.02 - PRESENT)
+* 금융결제원 (2026.02 - PRESENT)
 
 
 ## ✍️Tech Stack
